@@ -27,8 +27,8 @@
 <body>
 <div id="wrapper">
 	<!-- start header -->
-	<header>
-        <div class="navbar navbar-default navbar-static-top">
+	<header class="navbar-sticky-top">
+        <div class="navbar navbar-default">
             <div class="container">
                 <div class="navbar-header">
                     <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
@@ -36,7 +36,8 @@
                         <span class="icon-bar"></span>
                         <span class="icon-bar"></span>
                     </button>
-                    <a class="navbar-brand" href="index.html"><span>I</span>nstituto <span>S</span>an <span>A</span>ntonio de <span>P</span>adua </a>
+                    <a class="navbar-brand hidden-xs" href="index.html"><span>I</span>nstituto <span>S</span>an <span>A</span>ntonio de <span>P</span>adua </a>
+					<a class="navbar-brand hidden-sm hidden-md hidden-lg" href="index.html"><span>ISAP</span> </a>
                 </div>
                 <div class="navbar-collapse collapse ">
                     <ul class="nav navbar-nav">
@@ -50,8 +51,8 @@
                             </ul>
                         </li>
                         <li><a href="#1">Nosotros</a></li>
-                        <li><a href="blog.html#5">Inscripciones</a></li>
-                        <li><a href="blog.html">Novedades</a></li>
+                        <!-- <li><a href="blog.html#5">Inscripciones</a></li>
+                        <li><a href="blog.html">Novedades</a></li> -->
                         <li><a href="contact.html">Contacto</a></li>
                     </ul>
                 </div>
@@ -68,7 +69,7 @@
         <div id="main-slider" class="flexslider">
             <ul class="slides">
               <li>
-              	<img src="img/slides/1.jpg" alt="" />
+              	<img src="img/slides/1.jpg" alt="Instituto San Antonio de Padua - DIEGEP 4281" />
               	<div class="flex-caption">
                     <h3>Instituto San Antonio de Padua</h3> 
 					<p>DIEGEP 4281</p> 
@@ -77,7 +78,7 @@
               </li>
               
               <li>
-                <img src="img/slides/electromecanica.jpg" alt="" />
+                <img src="img/slides/electromecanica.jpg" alt="Banner electromecánica ISAP" />
                 <div class="flex-caption">
                     <h3>Modalidades</h3> 
 					<p>Tecnicatura en ELECTROMEC&Aacute;NICA</p> 
@@ -85,7 +86,7 @@
                 </div>
               </li>
               <li>
-                <img src="img/slides/multimedios.jpg" alt="" />
+                <img src="img/slides/multimedios.jpg" alt="Banner multimedios ISAP" />
                 <div class="flex-caption">
                     <h3>Modalidades</h3> 
 					<p>Tecnicatura en MULTIMEDIOS</p> 
@@ -93,7 +94,7 @@
                 </div>
               </li>
               <li>
-                <img src="img/slides/administracion.jpg" alt="" />
+                <img src="img/slides/administracion.jpg" alt="Banner economía ISAP" />
                 <div class="flex-caption">
                     <h3>Modalidades</h3> 
 					<p>Tecnicatura en ADMINISTRACI&Oacute;N de las organizaciones</p> 
@@ -127,7 +128,7 @@
 	<div class="container">
 		<div class="row">
 			<div class="col-lg-12">
-				<div class="row">
+				<div class="row" style="display: flex; justify-content: center; flex-wrap: wrap;">
 					<div class="col-lg-3">
 						<div class="box">
 							<div class="box-gray aligncenter">
@@ -145,7 +146,7 @@
 							</div>
 						</div>
 					</div>
-					<div class="col-lg-3">
+					<!-- <div class="col-lg-3">
 						<div class="box">
 							<div class="box-gray aligncenter">
 								<h4>Equipo de Orientaci&oacute;n</h4>
@@ -160,7 +161,7 @@
 								<a href="blog.html#12">M&aacute;s</a>
 							</div>
 						</div>
-					</div>
+					</div> -->
 					<div class="col-lg-3">
 						<div class="box">
 							<div class="box-gray aligncenter">
@@ -228,11 +229,9 @@
 				</div>
 			</div>
 			<div class="col-lg-4">
-				<h4>HORARIOS DE SECRETAR&iacute;A</h4> Nivel Secundario
+				<h4>SECRETAR&iacute;A</h4> Nivel Secundario
 				<span class="pullquote-left">
-				Lunes, Martes y Viernes - 13.30 a 17.00 hs.<br>
-				Mi&eacute;rcoles: 14.30 a 17.00 hs. <br>
-			EMAIL: secretaria@ipadua.edu.ar - cefsecundaria@gmail.com</span>
+			EMAIL: cefsecundaria@gmail.com - inscripcionesisap@gmail.com
 				
 			</div>
 
@@ -321,10 +320,6 @@
 					<strong>Instituto San Antonio de Padua</strong><br>
 					 Rivadavia 7200 (1655) Jos&eacute; Le&oacute;n Su&aacute;rez<br>
 					 San Mart&iacute;n - Buenos Aires </address>
-					<p>
-						<i class="icon-phone"></i> (011) 4729 2509 <br>
-						<i class="icon-envelope-alt"></i>comunicacion@ipadua.edu.ar
-					</p>
 				</div>
 			</div>
 			<div class="col-lg-3">
@@ -333,17 +328,8 @@
 					<ul class="link-list">
 						<li><a href="index.html#1">Nosotros</a></li>
 						<li><a href="index.html#2">Modalidades</a></li>
-						<li><a href="blog.html#5">Inscripciones</a></li>
-						<li><a href="blog.html">Novedades</a></li>
+						<li><a href="pasantias.html">Pasantias</a></li>
 						<li><a href="contact.html">Contacto</a></li>
-					</ul>
-				</div>
-			</div>
-			<div class="col-lg-3">
-				<div class="widget">
-					<h5 class="widgetheading">Novedades</h5>
-					<ul class="link-list">
-						
 					</ul>
 				</div>
 			</div>
