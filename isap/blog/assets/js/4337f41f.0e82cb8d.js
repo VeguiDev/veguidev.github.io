@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkisap_blog=self.webpackChunkisap_blog||[]).push([[247],{2559:e=>{e.exports=JSON.parse('{"permalink":"/isap/blog/","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

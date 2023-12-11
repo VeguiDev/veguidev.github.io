@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://ipadua.edu.ar/blog/</id>
+    <id>https://ipadua.edu.ar/isap/blog/</id>
     <title>ISAP Blog Blog</title>
     <updated>2023-12-11T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://ipadua.edu.ar/blog/"/>
+    <link rel="alternate" href="https://ipadua.edu.ar/isap/blog/"/>
     <subtitle>ISAP Blog Blog</subtitle>
-    <icon>https://ipadua.edu.ar/blog/img/favicon.ico</icon>
+    <icon>https://ipadua.edu.ar/isap/blog/img/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[El nuevo blog del Padua]]></title>
-        <id>https://ipadua.edu.ar/blog/el-nuevo-blog-del-padua</id>
-        <link href="https://ipadua.edu.ar/blog/el-nuevo-blog-del-padua"/>
+        <id>https://ipadua.edu.ar/isap/blog/el-nuevo-blog-del-padua</id>
+        <link href="https://ipadua.edu.ar/isap/blog/el-nuevo-blog-del-padua"/>
         <updated>2023-12-11T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Estamos emocionados de anunciar la inauguración de la flamante página de blogs del Padua. Esta nueva plataforma, impulsada por tecnologías de vanguardia como React y Webpack, presenta un diseño moderno y limpio que cautivará tu atención. Todo esto ha sido posible gracias al proyecto de código abierto de Facebook, Docusaurus.]]></summary>
         <content type="html"><![CDATA[<p>Estamos emocionados de anunciar la inauguración de la flamante página de blogs del Padua. Esta nueva plataforma, impulsada por tecnologías de vanguardia como <strong>React</strong> y <strong>Webpack</strong>, presenta un diseño moderno y limpio que cautivará tu atención. Todo esto ha sido posible gracias al proyecto de código abierto de Facebook, <a href="https://docusaurus.io/" target="_blank" rel="noopener noreferrer">Docusaurus</a>.</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="descubre-un-mundo-de-contenidos">Descubre un Mundo de Contenidos<a href="https://ipadua.edu.ar/blog/el-nuevo-blog-del-padua#descubre-un-mundo-de-contenidos" class="hash-link" aria-label="Enlace directo al Descubre un Mundo de Contenidos" title="Enlace directo al Descubre un Mundo de Contenidos">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="descubre-un-mundo-de-contenidos">Descubre un Mundo de Contenidos<a href="https://ipadua.edu.ar/isap/blog/el-nuevo-blog-del-padua#descubre-un-mundo-de-contenidos" class="hash-link" aria-label="Enlace directo al Descubre un Mundo de Contenidos" title="Enlace directo al Descubre un Mundo de Contenidos">​</a></h2>
 <p>En las próximas publicaciones, te sumergirás en un universo de recursos, noticias y trabajos realizados por nuestros talentosos alumnos. Estamos comprometidos a brindarte contenido valioso y relevante que te mantendrá informado y entretenido.</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="tecnología-que-impulsa-la-innovación">Tecnología que Impulsa la Innovación<a href="https://ipadua.edu.ar/blog/el-nuevo-blog-del-padua#tecnolog%C3%ADa-que-impulsa-la-innovaci%C3%B3n" class="hash-link" aria-label="Enlace directo al Tecnología que Impulsa la Innovación" title="Enlace directo al Tecnología que Impulsa la Innovación">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="tecnología-que-impulsa-la-innovación">Tecnología que Impulsa la Innovación<a href="https://ipadua.edu.ar/isap/blog/el-nuevo-blog-del-padua#tecnolog%C3%ADa-que-impulsa-la-innovaci%C3%B3n" class="hash-link" aria-label="Enlace directo al Tecnología que Impulsa la Innovación" title="Enlace directo al Tecnología que Impulsa la Innovación">​</a></h2>
 <p>La elección de tecnologías de última generación como React y Webpack garantiza una experiencia de usuario fluida y atractiva. Nos esforzamos por mantenernos a la vanguardia, ofreciéndote lo mejor en cuanto a diseño y funcionalidad.</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="docusaurus-nuestra-herramienta-de-elección">Docusaurus: Nuestra Herramienta de Elección<a href="https://ipadua.edu.ar/blog/el-nuevo-blog-del-padua#docusaurus-nuestra-herramienta-de-elecci%C3%B3n" class="hash-link" aria-label="Enlace directo al Docusaurus: Nuestra Herramienta de Elección" title="Enlace directo al Docusaurus: Nuestra Herramienta de Elección">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="docusaurus-nuestra-herramienta-de-elección">Docusaurus: Nuestra Herramienta de Elección<a href="https://ipadua.edu.ar/isap/blog/el-nuevo-blog-del-padua#docusaurus-nuestra-herramienta-de-elecci%C3%B3n" class="hash-link" aria-label="Enlace directo al Docusaurus: Nuestra Herramienta de Elección" title="Enlace directo al Docusaurus: Nuestra Herramienta de Elección">​</a></h2>
 <p>Aprovechamos el poder de Docusaurus, una herramienta de código abierto desarrollada por Facebook, para dar vida a esta plataforma. Su flexibilidad y robustez nos permiten ofrecer una experiencia de navegación excepcional mientras compartimos contenido significativo contigo.</p>
 <p>¡Únete a Nosotros en esta Experiencia!</p>
 <p>Explora nuestra nueva página de blogs y mantente al tanto de las últimas novedades, proyectos y logros de nuestros estudiantes. ¡Te damos la bienvenida a este emocionante viaje de descubrimiento y aprendizaje!</p>]]></content>

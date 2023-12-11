@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkisap_blog=self.webpackChunkisap_blog||[]).push([[31],{7260:s=>{s.exports=JSON.parse('{"label":"docusaurus","permalink":"/isap/blog/tags/docusaurus","allTagsPath":"/isap/blog/tags","count":1,"unlisted":false}')}}]);

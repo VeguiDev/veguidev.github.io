@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkisap_blog=self.webpackChunkisap_blog||[]).push([[23],{9943:a=>{a.exports=JSON.parse('{"label":"facebook","permalink":"/isap/blog/tags/facebook","allTagsPath":"/isap/blog/tags","count":1,"unlisted":false}')}}]);

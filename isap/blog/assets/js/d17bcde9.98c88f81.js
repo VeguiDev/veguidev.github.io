@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkisap_blog=self.webpackChunkisap_blog||[]).push([[447],{2166:s=>{s.exports=JSON.parse('{"permalink":"/isap/blog/tags/docusaurus","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
