@@ -1,0 +1,4 @@
+leer en https://github.com/VeguiDev/isap-blog.
+
+Si quiere dejar el original:
+borre este directorio y cambie el nombre de blog.original.html a blog.html
