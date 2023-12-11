@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkisap_blog=self.webpackChunkisap_blog||[]).push([[662],{1541:s=>{s.exports=JSON.parse('{"label":"2023","permalink":"/blog/tags/2023","allTagsPath":"/blog/tags","count":1,"unlisted":false}')}}]);
