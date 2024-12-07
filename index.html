@@ -1,1 +1,111 @@
-<h1>Hello World!</h1>
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <meta
+      name="description"
+      content="Soy VeguiDev un desarrollador de software que puede desarrollar la página para tu negocio, el servicio para tus empleados o un mod para tu server de Minecraft."
+    />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="icon" type="image/png" href="./logo.png" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@700;800;900&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Space+Grotesk&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="manifest" href="manifest.json" />
+    <link rel="stylesheet" href="/assets/css/estilos.css" />
+    <title>{title}</title>
+  </head>
+  <body>
+    <main class="text-white">
+    
+        <section></section>
+      <article
+        class="flex flex-col text-xl justify-center items-center my-32 mx-4"
+      >
+        <span class="w-full h-full overflow-hidden absolute right-0 top-0">
+          <img
+            src="/degradado2.png"
+            class="w-full h-full opacity-10 z-0 saturate-150 rotate-inf -rotate-45"
+            alt=""
+          />
+        </span>
+        <div
+          class="rounded-full pulse flex justify-center items-center mb-5 w-40 h-40 border-2 border-neutral-700 relative before:absolute before:w-48 before:h-48 before:opacity-70 before:rounded-full before:border before:border-neutral-700 after:absolute after:w-96 after:h-96 after:opacity-20 after:rounded-full after:border after:border-neutral-700/80"
+        >
+          <img
+            src="./foto.png"
+            class="w-40 h-40 object-cover rounded-full"
+            alt="Juan Manuel Menta foto"
+          />
+        </div>
+        <h3 class="font-bold mt-2">Juan Manuel Menta</h3>
+        <h3>veguidev</h3>
+        <h2 class="text-2xl font-black mb-2">Desarrollador de Software</h2>
+      </article>
+      <div class="relative my-12 mx-4">
+        <!-- Divider -->
+        <hr class="w-full border-neutral-700" />
+        <div class="absolute w-full h-96 top-0 bg-gradient"></div>
+      </div>
+
+      <!-- Articles -->
+
+      <section class="grid md:grid-cols-2 gap-5 w-[95%] mx-auto mb-12">
+        <PresentationCard icon={Info} title="Información" link="/sobre-mi">
+          Soy Juan Manuel Menta, desarrollador de software con experiencia en
+          desarrollo web, creación de aplicaciones de escritorio multiplataforma
+          y programación de mods para servidores de Minecraft. Puedo diseñar una
+          página web profesional para tu negocio, crear herramientas internas
+          que optimicen el trabajo de tus empleados o desarrollar mods y plugins
+          que mejoren la experiencia en tu servidor de Minecraft.
+        </PresentationCard>
+        <PresentationCard
+          icon={GraduationCap}
+          title="Formación"
+          link="/sobre-mi#formacion"
+        >
+          Soy técnico en Multimedios, egresado del Instituto San Antonio de
+          Padua, donde adquirí una sólida base en comunicación audiovisual,
+          diseño y tecnología. Actualmente, continúo mi formación académica
+          cursando la Licenciatura en Gestión de los Sistemas de la Información
+          en la UADE.
+        </PresentationCard>
+        <PresentationCard
+          icon={FlaskConical}
+          title="Proyectos"
+          link="/proyectos"
+        >
+          He trabajado en una gran variedad de proyectos, desde la creación de
+          sitios web y aplicaciones de escritorio hasta el desarrollo de mods y
+          plugins para servidores de Minecraft. Si estás buscando un
+          desarrollador de software con experiencia y pasión por su trabajo,
+          ¡estás en el lugar correcto!
+        </PresentationCard>
+
+        <PresentationCard
+          icon={Sparkles}
+          title="Habilidades"
+          link="/sobre-mi#habilidades"
+        >
+          Todas las tecnologías y herramientas que utilizo en mis proyectos con
+          una descripción de cada una. Desde lenguajes de programación hasta
+          frameworks y librerías.
+        </PresentationCard>
+      </section>
+    </section>
+    </main>
+    <!-- <NavBar client:load /> -->
+    
+    <!-- <Footer /> -->
+  </main>
+  </body>
+</html>
